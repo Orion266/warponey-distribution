@@ -1,0 +1,50 @@
+{
+  "SchemaVersion": 2,
+  "Product": "WarLike Client",
+  "PackageVersion": "1.1.0",
+  "GeneratedAt": "2026-09-07T07:34:42Z",
+  "Client": "World of Warcraft 3.3.5a",
+  "Addons": {
+    "WarponeyPilotage": "2.3"
+  },
+  "ManagedDirectories": [
+    "Interface/AddOns/WarponeyPilotage"
+  ],
+  "Files": [
+    {
+      "Path": "Data/enUS/patch-enUS-Z.MPQ",
+      "Size": 4534413,
+      "SHA256": "6C5C153DBFBBBCE0B24B3E7428B6F377A45E6771421ECDD9A2FEEECE64AF4758"
+    },
+    {
+      "Path": "Data/frFR/patch-frFR-Z.MPQ",
+      "Size": 4720015,
+      "SHA256": "B19017B9CBDFC89A5E18099969B260F31C525434EBFAAD7BDAF884C0A57AAB2F"
+    },
+    {
+      "Path": "Data/patch-W.MPQ",
+      "Size": 65901,
+      "SHA256": "923428F747276F3757CD7E46E2B8CBD2F6F9E72B3625F3101BFC718D787839AF"
+    },
+    {
+      "Path": "Data/patch-WarLike-Z-Spells.MPQ",
+      "Size": 79189,
+      "SHA256": "6E0A098848EB1683EBB5AF9ED10B938C9967E15D093E24F574E8C298B82FFBAE"
+    },
+    {
+      "Path": "Interface/AddOns/WarponeyPilotage/Bindings.xml",
+      "Size": 874,
+      "SHA256": "D1466C63832F51B04B05B28FC70DD55A03F774EFD04E0C380602BC832FCF429E"
+    },
+    {
+      "Path": "Interface/AddOns/WarponeyPilotage/WarponeyPilotage.lua",
+      "Size": 203686,
+      "SHA256": "069DCE11E9E7D6B90CA9AB7E376C16B6B30C12EBD7C75FFF3D07DC5FB1A016ED"
+    },
+    {
+      "Path": "Interface/AddOns/WarponeyPilotage/WarponeyPilotage.toc",
+      "Size": 245,
+      "SHA256": "37C6724FA706A8CB8AD9D0D81151034B2B807172BED68EBCDA263E012D7867E9"
+    }
+  ]
+}
